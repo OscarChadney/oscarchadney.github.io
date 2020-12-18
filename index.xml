@@ -1,63 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Kentros Lab</title>
-    <link>http://oscarchadney.github.io/</link>
+    <link>https://examplesite.org/</link>
     <description>Recent content on The Kentros Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2020 09:06:23 +0200</lastBuildDate><atom:link href="http://oscarchadney.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Principal Investigator</title>
-      <link>http://oscarchadney.github.io/projects/pi/</link>
-      <pubDate>Tue, 22 Sep 2020 10:48:52 +0200</pubDate>
+      <title>Posts</title>
+      <link>https://examplesite.org/post/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://oscarchadney.github.io/projects/pi/</guid>
-      <description>Clifford George Kentros B.A.,M.Sc., Ph.D, Professor of Medicine
-  Research Interests
-Cellular and molecular basis of memory/ Coffee addict and former Bass Player
-​ Bio
-After his doctoral work on Potassium channels with Bernardo Rudy at NYU, Cliff Kentros investigated the relationship between place cells and memory during his postdoctoral work with Robert Muller at SUNY Downstate and Eric Kandel at Columbia University. His laboratory takes advantage of his dual molecular and neurophysiological background by combining the anatomical specificity of molecular genetics with in-vivo electrophysiological recordings and anatomical analysis, first at the University of Oregon and now at the Kavli Institute of Systems Neuroscience at NTNU in Trondheim, Norway, where he is Professor of Medicine.</description>
+      <guid>https://examplesite.org/post/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Kentros lab @ NTNU</title>
-      <link>http://oscarchadney.github.io/projects/ntnu/</link>
-      <pubDate>Tue, 22 Sep 2020 10:50:33 +0200</pubDate>
+      <title>Publications</title>
+      <link>https://examplesite.org/publication/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://oscarchadney.github.io/projects/ntnu/</guid>
-      <description>Miguel Carvalho   
- Research scientist 
-   Stefan Blankvoort   
- Research scientist 
-   Valentina Di Maria   
- Post-Doc 
-   Oscar Chadney   
- PhD candidate 
-   Lucie Descamps   
- PhD candidate 
-   Annika Utz</description>
+      <guid>https://examplesite.org/publication/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Kentros lab @ University of Oregon</title>
-      <link>http://oscarchadney.github.io/projects/oregon/</link>
-      <pubDate>Tue, 22 Sep 2020 10:50:41 +0200</pubDate>
+      <title>Projects</title>
+      <link>https://examplesite.org/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://oscarchadney.github.io/projects/oregon/</guid>
-      <description>   Ruth Bremiller   
- Research Associate    Haiyan Wu   
- Engineer    Ute Hostick   
- Transgenic mouse facility manager </description>
+      <guid>https://examplesite.org/project/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>WelcomeMatteo</title>
-      <link>http://oscarchadney.github.io/blog/welcomematteo/</link>
-      <pubDate>Thu, 24 Sep 2020 09:06:23 +0200</pubDate>
+      <title>Courses</title>
+      <link>https://examplesite.org/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://oscarchadney.github.io/blog/welcomematteo/</guid>
-      <description>Welcome to our new visiting grad student :D</description>
+      <guid>https://examplesite.org/courses/</guid>
+      <description></description>
     </item>
     
   </channel>

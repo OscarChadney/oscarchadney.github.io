@@ -3,42 +3,185 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://oscarchadney.github.io/projects/pi/</loc>
-    <lastmod>2020-09-22T10:48:52+02:00</lastmod>
+    <loc>https://examplesite.org/authors/kentroslab/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://oscarchadney.github.io/projects/ntnu/</loc>
-    <lastmod>2020-09-22T10:50:33+02:00</lastmod>
+    <loc>https://examplesite.org/authors/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://oscarchadney.github.io/projects/</loc>
-    <lastmod>2020-09-22T10:46:58+02:00</lastmod>
+    <loc>https://examplesite.org/post/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://oscarchadney.github.io/blog/</loc>
-    <lastmod>2020-09-24T09:04:01+02:00</lastmod>
+    <loc>https://examplesite.org/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://oscarchadney.github.io/projects/oregon/</loc>
-    <lastmod>2020-09-22T10:50:41+02:00</lastmod>
+    <loc>https://examplesite.org/post/getting-started/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://oscarchadney.github.io/</loc>
-    <lastmod>2020-09-24T09:06:23+02:00</lastmod>
+    <loc>https://examplesite.org/publication_types/2/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://oscarchadney.github.io/blog/welcomematteo/</loc>
-    <lastmod>2020-09-24T09:06:23+02:00</lastmod>
+    <loc>https://examplesite.org/publication/nair2020/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://oscarchadney.github.io/tags/</loc>
+    <loc>https://examplesite.org/publication_types/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication/blankvoort2018/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication/kanter2017/</loc>
+    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/ad/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/anatomy/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/acc/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/claustrum/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/edge/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/hippo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/molbio/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/phys/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication/weible2012/</loc>
+    <lastmod>2012-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/anelau/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/annikau/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/bianca/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/chrschr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/cliff/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/eliserol/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/joachsig/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/luciede/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/marcussf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/marialet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/matteo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/miguelc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/omtchadne/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/qiangwei/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/stefanb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/valentdi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/courses/</loc>
   </url>
   
 </urlset>
