@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Kentros Lab</title>
-    <link>https://examplesite.org/tags/</link>
+    <link>https://oscarchadney.github.io/tags/</link>
     <description>Recent content in Tags on The Kentros Lab</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://oscarchadney.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>anatomy</title>
-      <link>https://examplesite.org/tags/anatomy/</link>
+      <link>https://oscarchadney.github.io/tags/anatomy/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/tags/anatomy/</guid>
+      <guid>https://oscarchadney.github.io/tags/anatomy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>molbio</title>
-      <link>https://examplesite.org/tags/molbio/</link>
+      <link>https://oscarchadney.github.io/tags/molbio/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/tags/molbio/</guid>
+      <guid>https://oscarchadney.github.io/tags/molbio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phys</title>
-      <link>https://examplesite.org/tags/phys/</link>
+      <link>https://oscarchadney.github.io/tags/phys/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/tags/phys/</guid>
+      <guid>https://oscarchadney.github.io/tags/phys/</guid>
       <description></description>
     </item>
     
